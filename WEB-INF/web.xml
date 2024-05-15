@@ -8,10 +8,12 @@
    <servlet>
         <servlet-name>testS</servlet-name>
         <servlet-class>test.TestClass</servlet-class>
+
    </servlet>
    <servlet-mapping>
         <servlet-name>testS</servlet-name>
         <url-pattern>/test</url-pattern>
+
    </servlet-mapping>
     
 </web-app>
